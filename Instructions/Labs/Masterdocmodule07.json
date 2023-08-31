@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Module 07 - Access resource secrets more securely across services",
+    "Language": "English",
+    "BaseURL": "https://github.com/CloudLabs-MOC/AZ-204-DevelopingSolutionsforMicrosoftAzure/tree/stage/Instructions/Labs",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/kelzms8/AZ-204-DevelopingSolutionsforMicrosoftAzure/stage/Instructions/Labs/LabIntro.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-204-DevelopingSolutionsforMicrosoftAzure/stage/Instructions/Labs/AZ-204_lab_07.md",
+        "Order": 2
+      }
+
+    ]
+  }
+]
