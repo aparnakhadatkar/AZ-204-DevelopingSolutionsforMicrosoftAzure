@@ -36,7 +36,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
     ![Manage Your Virtual Machine](./media/gext.png)
 
-    >**Note:** You will get the **Hourglass** icon when 10 minutes are remaining in the lab.
+    >**Note:** You will get the **Hourglass** icon when 15 minutes are remaining in the lab.
 
 2. Click **OK** to extend your lab duration.
  
@@ -44,9 +44,15 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed.
 
+## Lab Guide Zoom In/Zoom Out
+ 
+To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+
+![Manage Your Virtual Machine](./media/zoomoutin.png)
+
 ## Login to Azure Portal and verify the pre-deployed resources.
 
-1. In the virtual machine (VM) on the left, click on the Azure Portal as shown below.
+1. Click on the Azure Portal in the virtual machine (VM) on the left, as shown below.
 
     ![](./media/azure.png)
     
@@ -54,13 +60,13 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
    
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
-    ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/raw/main/media/M2-Ex1-portalsignin-1.png?raw=true)
+     ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/raw/main/media/M2-Ex1-portalsignin-1.png?raw=true)
 
 1. Enter the following **Password** and click on **Sign in**. 
    
    * Password: <inject key="AzureAdUserPassword"></inject>
 
-    ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-portalsignin-2.png?raw=true)
+     ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-portalsignin-2.png?raw=true)
     
 1. First-time users are often prompted to Stay Signed In, if you see any such pop-up, click on No.
    
