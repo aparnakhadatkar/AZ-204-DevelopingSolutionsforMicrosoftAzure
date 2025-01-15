@@ -1,6 +1,6 @@
 # **Getting Started with Your AZ-204: Developing Solutions for Microsoft Azure Workshop**
  
-Welcome to your AZ-204: Developing Solutions for Microsoft Azure workshop! We've prepared a seamless environment for you to explore and learn Azure ServicesS. Let's begin by making the most of this experience:
+Welcome to your AZ-204: Developing Solutions for Microsoft Azure workshop! We've prepared a seamless environment for you to explore and learn Azure services. Let's begin by making the most of this experience:
  
 ## **Accessing Your Lab Environment**
  
@@ -44,7 +44,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed.
 
-## Log in to Azure Portal and verify the pre-deployed resources.
+## Login to Azure Portal and verify the pre-deployed resources.
 
 1. In the virtual machine (VM) on the left, click on the Azure Portal as shown below.
 
@@ -71,5 +71,3 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
    ![Start Your Azure Journey](./media/num.png)
 
 Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
-
-
