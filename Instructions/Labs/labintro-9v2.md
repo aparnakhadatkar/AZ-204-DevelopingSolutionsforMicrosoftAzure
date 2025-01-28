@@ -4,13 +4,15 @@ Welcome to your AZ-204: Developing Solutions for Microsoft Azure workshop! We've
  
 ## **Accessing Your Lab Environment**
  
-Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
+Once you're ready to dive in, your virtual machine and **Lab Guide** will be right at your fingertips within your web browser.
  
 ![Access Your VM and Lab Guide](./media/new-gettingstarted-jan25-1.png)
 
-### **Virtual Machine & Lab Guide**
+## **Virtual Machine & Lab Guide**
  
-Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
+In the integrated environment, the lab VM serves as the designated workspace, while the lab guide is accessible on the right side of the screen.
+
+**Note:** Kindly ensure that you are following the instructions carefully to ensure the lab runs smoothly and provides an optimal user experience.
  
 ## **Exploring Your Lab Resources**
  
@@ -52,11 +54,11 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
 ## Login to Azure Portal and verify the pre-deployed resources.
 
-1. Click on the Azure Portal in the virtual machine (VM) on the left, as shown below.
+1. Click on the **Azure Portal** in the virtual machine (VM) on the left, as shown below.
 
     ![](./media/new-gettingstarted-jan25-5.png)
     
-1. On the **Sign into Microsoft Azure** tab, you will see the login screen. Enter the following **Email/Username** and then click on **Next**. 
+1. On the **Sign in to Microsoft Azure** tab, you will see the login screen. Enter the following **Email/Username** and then click on **Next**. 
    
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
@@ -87,3 +89,5 @@ Click **Next** from the bottom right corner to embark on your Lab journey!
    ![Start Your Azure Journey](./media/num.png)
 
 Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
+
+### Happy Learning!!
